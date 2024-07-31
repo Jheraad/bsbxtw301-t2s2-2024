@@ -5,9 +5,11 @@
  shows backround castle - landscape
 
 #sprites
--
--
--
+
+- Castle
+- Character
+- clouds
+- 
 # character sprites 
 - character
 - platform
