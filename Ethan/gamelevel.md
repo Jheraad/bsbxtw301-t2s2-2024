@@ -13,5 +13,6 @@ shows Stairway Level up and down
 
 ## Object sprites
 
-
-
+-Windows
+-Torches
+-Art panting
