@@ -8,5 +8,5 @@ BSBXTW301 Work in a team - Assessment task 2 - Team 2
 - Ethan
 - Nicholas
 - Patrick L
-- Thomas
-- Caleb
+- Thomas (to do)
+- Caleb (to do)
